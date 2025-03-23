@@ -1,5 +1,5 @@
 ## Hi there 👋
-Starting out with web development.
+Starting out with web development. Learning Supabase
 <!--
 **marcnoel86/marcnoel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
